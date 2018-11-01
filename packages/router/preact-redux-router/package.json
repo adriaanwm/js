@@ -1,0 +1,22 @@
+{
+  "name": "@jsbit/preact-redux-router",
+  "version": "1.0.0",
+  "description": "Router used sometimes at Input Logic.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@jsbit/spa-router": "1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adriaanwm/js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adriaanwm/js/issues"
+  },
+  "keywords": ["spa", "router", "nested", "redux", "preact"],
+  "author": "Adriaan Mulder",
+  "license": "ISC"
+}

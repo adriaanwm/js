@@ -1,0 +1,21 @@
+{
+  "name": "@jsbit/equal",
+  "version": "1.0.0",
+  "description": "See if two things are equal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adriaanwm/js.git"
+  },
+  "bugs": {
+    "url": "git+https://github.com/adriaanwm/js/issues"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Adriaan Mulder",
+  "license": "ISC"
+}

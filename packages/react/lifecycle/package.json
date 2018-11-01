@@ -1,0 +1,22 @@
+{
+  "name": "@jsbit/lifecycle",
+  "version": "1.0.0",
+  "description": "Add lifecycle functions in HOC style",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@jsbit/component": "1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adriaanwm/js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/adriaanwm/js/issues"
+  },
+  "keywords": ["react", "function"],
+  "author": "Adriaan Mulder",
+  "license": "ISC"
+}

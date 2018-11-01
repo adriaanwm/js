@@ -1,0 +1,19 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "Javascript stuff",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bootstrap": "lerna bootstrap --hoist"
+  },
+  "devDependencies": {
+    "unistore": "3.1.0"
+  },
+  "author": "Adriaan Mulder",
+  "license": "ISC",
+  "devDependencies": {
+    "lerna": "^3.4.3",
+    "wasmuth": "1.13"
+  }
+}

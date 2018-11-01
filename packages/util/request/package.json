@@ -1,0 +1,23 @@
+{
+  "name": "@jsbit/request",
+  "version": "1.0.0",
+  "description": "Request that returns a promise and the xhr object (for abort and loading progress)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adriaanwm/js.git"
+  },
+  "bugs": {
+    "url": "git+https://github.com/adriaanwm/js/issues"
+  },
+  "keywords": [
+    "javascript",
+    "XMLHttpRequest",
+    "Promise"
+  ],
+  "author": "Adriaan Mulder",
+  "license": "ISC"
+}
