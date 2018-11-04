@@ -1,14 +1,14 @@
 {
   "name": "@jsbit/spa-router",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Nestable Router for SPAs. Not coupled to any view library (like React) or store (like Redux)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@jsbit/equal": "^0.0.2",
-    "@jsbit/find-matching-route": "^0.0.2"
+    "@jsbit/equal": "^0.0.3",
+    "@jsbit/find-matching-route": "^0.0.3"
   },
   "repository": {
     "type": "git",

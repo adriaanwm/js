@@ -1,13 +1,13 @@
 {
   "name": "@jsbit/find-matching-route",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Find a route definition that matches a path",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@jsbit/route-match": "^0.0.2"
+    "@jsbit/route-match": "^0.0.3"
   },
   "repository": {
     "type": "git",

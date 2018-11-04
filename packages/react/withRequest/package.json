@@ -1,14 +1,14 @@
 {
   "name": "@jsbit/withRequest",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Hoc for doing a request based on state during a components lifecycle",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@jsbit/lifecycle": "^0.0.2",
-    "@jsbit/request": "^0.0.2"
+    "@jsbit/lifecycle": "^0.0.3",
+    "@jsbit/request": "^0.0.3"
   },
   "repository": {
     "type": "git",
