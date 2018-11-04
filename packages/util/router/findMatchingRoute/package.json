@@ -1,6 +1,6 @@
 {
   "name": "@jsbit/findMatchingRoute",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Find a route definition that matches a path",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,10 @@
   "bugs": {
     "url": "https://github.com/adriaanwm/js/issues"
   },
-  "keywords": ["spa", "router"],
+  "keywords": [
+    "spa",
+    "router"
+  ],
   "author": "Adriaan Mulder",
   "license": "ISC"
 }

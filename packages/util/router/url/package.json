@@ -1,6 +1,6 @@
 {
   "name": "@jsbit/url",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Utility to stop hard-coding your urls",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,12 @@
   "bugs": {
     "url": "https://github.com/adriaanwm/js/issues"
   },
-  "keywords": ["router", "url", "path", "query"],
+  "keywords": [
+    "router",
+    "url",
+    "path",
+    "query"
+  ],
   "author": "Adriaan Mulder",
   "license": "ISC"
 }

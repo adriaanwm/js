@@ -1,14 +1,14 @@
 {
   "name": "@jsbit/spa-router",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Nestable Router for SPAs. Not coupled to any view library (like React) or store (like Redux)",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@jsbit/findMatchingRoute": "1.0",
-    "@jsbit/equal": "1.0"
+    "@jsbit/equal": "^0.0.1",
+    "@jsbit/findMatchingRoute": "^0.0.1"
   },
   "repository": {
     "type": "git",
@@ -17,7 +17,12 @@
   "bugs": {
     "url": "https://github.com/adriaanwm/js/issues"
   },
-  "keywords": ["spa", "router", "nested", "redux"],
+  "keywords": [
+    "spa",
+    "router",
+    "nested",
+    "redux"
+  ],
   "author": "Adriaan Mulder",
   "license": "ISC"
 }

@@ -1,14 +1,14 @@
 {
   "name": "@jsbit/withRequest",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Hoc for doing a request based on state during a components lifecycle",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@jsbit/lifecycle": "1.0",
-    "@jsbit/request": "1.0"
+    "@jsbit/lifecycle": "^0.0.1",
+    "@jsbit/request": "^0.0.1"
   },
   "repository": {
     "type": "git",
@@ -17,7 +17,10 @@
   "bugs": {
     "url": "https://github.com/adriaanwm/js/issues"
   },
-  "keywords": ["react", "function"],
+  "keywords": [
+    "react",
+    "function"
+  ],
   "author": "Adriaan Mulder",
   "license": "ISC"
 }
