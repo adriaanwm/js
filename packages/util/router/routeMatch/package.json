@@ -1,5 +1,5 @@
 {
-  "name": "@jsbit/routeMatch",
+  "name": "@jsbit/route-match",
   "version": "0.0.1",
   "description": "Match a url path to a path definition",
   "main": "index.js",
@@ -18,5 +18,6 @@
     "router"
   ],
   "author": "Adriaan Mulder",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "27ec18a41d837b569b66a6fbc1cfd6fa4358dc3e"
 }

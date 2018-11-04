@@ -1,10 +1,13 @@
 {
-  "name": "@jsbit/findMatchingRoute",
+  "name": "@jsbit/find-matching-route",
   "version": "0.0.1",
   "description": "Find a route definition that matches a path",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@jsbit/route-match": "^0.0.1"
   },
   "repository": {
     "type": "git",
@@ -18,5 +21,6 @@
     "router"
   ],
   "author": "Adriaan Mulder",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "27ec18a41d837b569b66a6fbc1cfd6fa4358dc3e"
 }

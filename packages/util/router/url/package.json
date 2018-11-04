@@ -20,5 +20,6 @@
     "query"
   ],
   "author": "Adriaan Mulder",
-  "license": "ISC"
+  "license": "ISC",
+  "gitHead": "27ec18a41d837b569b66a6fbc1cfd6fa4358dc3e"
 }

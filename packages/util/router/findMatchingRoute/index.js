@@ -1,4 +1,4 @@
-import routeMatch from '@jsbit/routeMatch'
+import routeMatch from '@jsbit/route-match'
 
 export const findMatchingRoute = (routes, currentPath) => {
   for (let name in routes) {
