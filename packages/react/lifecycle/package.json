@@ -1,13 +1,13 @@
 {
   "name": "@jsbit/lifecycle",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Add lifecycle functions in HOC style",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@jsbit/component": "^0.0.3"
+    "@jsbit/component": "^0.0.4"
   },
   "repository": {
     "type": "git",

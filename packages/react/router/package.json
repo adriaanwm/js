@@ -1,13 +1,13 @@
 {
   "name": "@jsbit/react-unistore-router",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Router used sometimes at Input Logic.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@jsbit/spa-router": "^0.0.3"
+    "@jsbit/spa-router": "^0.0.4"
   },
   "repository": {
     "type": "git",

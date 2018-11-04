@@ -1,6 +1,6 @@
 {
   "name": "@jsbit/route-match",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Match a url path to a path definition",
   "main": "index.js",
   "scripts": {
