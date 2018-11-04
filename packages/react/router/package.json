@@ -1,5 +1,5 @@
 {
-  "name": "@jsbit/preact-redux-router",
+  "name": "@jsbit/react-redux-router",
   "version": "1.0.0",
   "description": "Router used sometimes at Input Logic.",
   "main": "index.js",

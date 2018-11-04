@@ -1,9 +1,9 @@
 {
   "packages": [
     "packages/*",
-    "packages/router/*",
     "packages/react/*",
-    "packages/util/*"
+    "packages/util/*",
+    "packages/util/router/*"
   ],
   "version": "0.0.0"
 }
