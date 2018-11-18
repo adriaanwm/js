@@ -1,5 +1,3 @@
-import {reduce} from 'wasmuth'
-
 const queryString = obj => {
   const queries = []
   for (let p in obj) {
@@ -15,10 +13,9 @@ const build = (root, nested) => (name, args, queries) => {
   const defn = pieces.length === 1 ? root : nested[pieces[0]]
   const path = defn.paths[pieces[1] || name]
   const query = queries ? `?${queryString(queries)}` : ''
-  const replaced = reduce(
+  const replaced = Object.keys(args || {}).reduce(
     (acc, k) => acc.replace(`:${k}`, args[k]),
-    path,
-    Object.keys(args || {})
+    path
   )
   return `${defn.base}/${replaced}${query}`
 }

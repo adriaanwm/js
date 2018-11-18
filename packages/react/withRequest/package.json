@@ -1,5 +1,5 @@
 {
-  "name": "@jsbit/withRequest",
+  "name": "@jsbit/with-request",
   "version": "0.0.4",
   "description": "Hoc for doing a request based on state during a components lifecycle",
   "main": "index.js",
@@ -23,5 +23,5 @@
   ],
   "author": "Adriaan Mulder",
   "license": "ISC",
-  "gitHead": "d2f26c4b133f3f7949e30c3b1660034bfefd63c1"
+  "gitHead": "e33aa3630787cfc17cf052b1cc9562ff8c07a074"
 }

@@ -8,12 +8,10 @@
     "bootstrap": "lerna bootstrap --hoist"
   },
   "devDependencies": {
-    "unistore": "3.1.0"
-  },
-  "author": "Adriaan Mulder",
-  "license": "ISC",
-  "devDependencies": {
+    "unistore": "3.1.0",
     "lerna": "^3.4.3",
     "wasmuth": "1.13"
-  }
+  },
+  "author": "Adriaan Mulder",
+  "license": "ISC"
 }
