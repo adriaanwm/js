@@ -6,12 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "parcel index.html --no-autoinstall",
-    "build": "parcel build index.js --no-autoinstall --experimental-scope-hoisting"
+    "build": "parcel build index.js --no-autoinstall --experimental-scope-hoisting",
+    "build-working": "parcel build index.js --no-autoinstall"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@jsbit/url": "^0.0.4",
     "preact": "^8.3.1"
   },
   "devDependencies": {
