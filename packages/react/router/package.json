@@ -1,8 +1,9 @@
 {
   "name": "@jsbit/react-unistore-router",
   "version": "0.0.4",
-  "description": "Router used sometimes at Input Logic.",
+  "description": "A router.",
   "main": "index.js",
+  "source": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -25,5 +26,8 @@
   ],
   "author": "Adriaan Mulder",
   "license": "ISC",
-  "gitHead": "e33aa3630787cfc17cf052b1cc9562ff8c07a074"
+  "gitHead": "e33aa3630787cfc17cf052b1cc9562ff8c07a074",
+  "devDependencies": {
+    "@babel/core": "^7.1.6"
+  }
 }

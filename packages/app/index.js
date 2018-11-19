@@ -1,12 +1,8 @@
 import Preact from 'preact'
-
-const App = ({name, ...props}) =>
-  <div>
-    <p>Hello {name}</p>
-  </div>
+import Main from './components/app-main'
 
 Preact.render(
-  <App name='bob' />,
+  <Main />,
   document.getElementById('app'),
   document.getElementById('app').children[0]
 )

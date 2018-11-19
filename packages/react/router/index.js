@@ -1,4 +1,5 @@
-import {connect} from 'unistore/preact'
+import Preact from 'preact'
+import {connect} from 'unistore/react'
 import {router} from '@jsbit/spa-router'
 
 let storeRef
@@ -51,7 +52,6 @@ export const Router = connect(state => ({
     routes,
     setCurrentRoute: route => store.setState({route}),
     currentRoute,
-    notFound: () => <div>Not Found!</div>,
     currentPath
   })
   return Component ? <Component /> : null

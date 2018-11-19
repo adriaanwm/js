@@ -8,7 +8,7 @@
     "bootstrap": "lerna bootstrap --hoist"
   },
   "devDependencies": {
-    "unistore": "3.1.0",
+    "unistore": "^3.1.0",
     "lerna": "^3.4.3",
     "wasmuth": "1.13"
   },

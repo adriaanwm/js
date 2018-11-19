@@ -1,4 +1,4 @@
-import findMatchingRoute from '@jsbit/findMatchingRoute'
+import findMatchingRoute from '@jsbit/find-matching-route'
 import equal from '@jsbit/equal'
 
 export const router = ({
